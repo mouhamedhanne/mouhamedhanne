@@ -16,10 +16,13 @@ https://www.instagram.com/geek___genius/) [![LinkedIn](https://img.shields.io/ba
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=mouhamedhanne&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=mouhamedhanne&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ![open source contribution](assets/hacktoberfest.png)
+
+### Badges earned during Hacktoberfest 2023.
+
+
+---
+[![](https://visitcount.itsvg.in/api?id=mouhamedhanne&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
