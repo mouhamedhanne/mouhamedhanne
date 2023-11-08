@@ -20,6 +20,6 @@ https://www.instagram.com/geek___genius/) [![LinkedIn](https://img.shields.io/ba
 [![](https://visitcount.itsvg.in/api?id=mouhamedhanne&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-![open source contribution](./assets/mouhamed_Holopin.png)
+![open source contribution](assets/mouhamed_Holopin.png)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
